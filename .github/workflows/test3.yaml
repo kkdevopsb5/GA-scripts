@@ -1,4 +1,4 @@
-name: File operations in github
+name: File operations in github-push
 
 on: push
 
@@ -21,6 +21,6 @@ jobs:
             - name: dispaly the present location
               run: pwd
 
-              
+
             
 
