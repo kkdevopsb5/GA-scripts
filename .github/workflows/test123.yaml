@@ -10,7 +10,7 @@ jobs:
       fail-fast: true
       matrix:
         os: [ubuntu-latest, windows-latest]
-        images: [hello-world, alpine]
+        images: [hello-world, alpine,kkkdevops678967]
     steps:
       - name: Docker details
         run: docker info
